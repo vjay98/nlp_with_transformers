@@ -1,6 +1,6 @@
 # 🧠 NLP with Transformers – Code Implementations
 
-This repository contains my personal code implementations and experiments based on the book **Natural Language Processing with Transformers* by Lewis Tunstall, Leandro von Werra, and Thomas Wolf (published by O’Reilly Media and Hugging Face).
+This repository contains my personal code implementations and experiments based on the book **Natural Language Processing with Transformers** by Lewis Tunstall, Leandro von Werra, and Thomas Wolf (published by O’Reilly Media and Hugging Face).
 
 ## 📚 About the Book
 
