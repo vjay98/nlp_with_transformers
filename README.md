@@ -4,24 +4,24 @@ This repository contains my personal code implementations and experiments based 
 📚 About the Book
 The book provides a hands-on, project-driven approach to Natural Language Processing (NLP) using state-of-the-art Transformer models like BERT, RoBERTa, GPT, T5, and more. It covers:
 
-Preprocessing text for Transformers
+- Preprocessing text for Transformers
 
-Fine-tuning models for classification, summarization, and question answering
+- Fine-tuning models for classification, summarization, and question answering
 
-Building pipelines and production-ready tools
+- Building pipelines and production-ready tools
 
-Interpretability and fairness in NLP
+- Interpretability and fairness in NLP
 
-Deployment with the Hugging Face 🤗 ecosystem
+- Deployment with the Hugging Face 🤗 ecosystem
 
 ⚙️ Implementation Notes
 Due to limited computational resources, I adapted some implementations by:
 
-Using smaller or distilled versions of models where possible
+- Using smaller or distilled versions of models where possible
 
-Leveraging techniques like QLoRA for parameter-efficient fine-tuning
+- Leveraging techniques like QLoRA for parameter-efficient fine-tuning
 
-Optimizing batch sizes and using CPU-compatible alternatives when needed
+- Optimizing batch sizes and using CPU-compatible alternatives when needed
 
 These changes helped maintain a balance between accessibility and the core learning objectives of each project.
 
